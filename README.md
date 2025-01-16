@@ -1,5 +1,5 @@
 **Xgenunpro | Twitter Account Generator**
-
+-
 Features
 
 🌟 Rotating & mobile proxy
@@ -15,7 +15,7 @@ Features
 🌟 Easy management
 
 
--Contact for details and purchasing
+Contact for details and purchasing
 -
 
 🟢 t.me/xgenunpro
