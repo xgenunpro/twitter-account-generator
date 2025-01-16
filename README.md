@@ -1,21 +1,21 @@
-**Xgenunpro | Twitter Account Generator**
+-**Xgenunpro | Twitter Account Generator**
 
-Features
+-Features
 
-🌟 Rotating & mobile proxy
+-🌟 Rotating & mobile proxy
 
-🌟 Multi-threads
+-🌟 Multi-threads
 
-🌟 Full requests
+-🌟 Full requests
 
-🌟 3x email service api integrated
+-🌟 3x email service api integrated
 
-🌟 2x captcha service api integrated
+-🌟 2x captcha service api integrated
 
-🌟 Easy management
+-🌟 Easy management
 
 
-Contact for details and purchasing
+-Contact for details and purchasing
 
 
 🟢 t.me/xgenunpro
