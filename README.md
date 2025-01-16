@@ -1,4 +1,4 @@
-**Xgenunpro | Twitter Account Generator**\
+**Xgenunpro | Twitter Account Generator**
 
 
 Features
